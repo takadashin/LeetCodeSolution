@@ -10,4 +10,5 @@ Solution to LeetCode Problem
 | 501 | Find Mode in Binary Search Tree |  Easy  | [Here](https://leetcode.com/problems/find-mode-in-binary-search-tree/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/501.%20Find%20Mode%20in%20Binary%20Search%20Tree)   |
 | 503 | Next Greater Element II |  Medium  | [Here](https://leetcode.com/problems/next-greater-element-ii/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/503.%20Next%20Greater%20Element%20II)   |
 | 506 | Relative Ranks |  Easy  | [Here](https://leetcode.com/problems/relative-ranks/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/506.%20Relative%20Ranks)   |
+| 508 | Most Frequent Subtree Sum |  Medium  | [Here](https://leetcode.com/problems/most-frequent-subtree-sum/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/508.%20Most%20Frequent%20Subtree%20Sum)   |
 | --- | --------- |  ----  | Here   | Here   |
