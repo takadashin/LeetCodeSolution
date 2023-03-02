@@ -12,4 +12,5 @@ Solution to LeetCode Problem
 | 506 | Relative Ranks |  Easy  | [Here](https://leetcode.com/problems/relative-ranks/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/506.%20Relative%20Ranks)   |
 | 508 | Most Frequent Subtree Sum |  Medium  | [Here](https://leetcode.com/problems/most-frequent-subtree-sum/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/508.%20Most%20Frequent%20Subtree%20Sum)   |
 | 513 | Find Bottom Left Tree Value |  Medium  | [Here](https://leetcode.com/problems/find-bottom-left-tree-value/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/513.%20Find%20Bottom%20Left%20Tree%20Value)   |
+| 515 | Find Largest Value in Each Tree Row |  Medium  | [Here](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row)   |
 | --- | --------- |  ----  | Here   | Here   |
