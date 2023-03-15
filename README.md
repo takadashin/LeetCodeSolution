@@ -15,5 +15,6 @@ Solution to LeetCode Problem
 | 515 | Find Largest Value in Each Tree Row |  Medium  | [Here](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row)   |
 | 516 | Longest Palindromic Subsequence |  Medium  | [Here](https://leetcode.com/problems/longest-palindromic-subsequence/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/516.%20Longest%20Palindromic%20Subsequence)   |
 | 518 | Coin Change II |  Medium  | [Here](https://leetcode.com/problems/coin-change-ii/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/518.%20Coin%20Change%20II)   |
+| 520 | Detect Capital |  Easy  | [Here](https://leetcode.com/problems/detect-capital/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/520.%20Detect%20Capital)   |
 | --- | --------- |  ----  | Here   | Here   |
 
