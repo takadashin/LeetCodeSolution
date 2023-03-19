@@ -16,5 +16,6 @@ Solution to LeetCode Problem
 | 516 | Longest Palindromic Subsequence |  Medium  | [Here](https://leetcode.com/problems/longest-palindromic-subsequence/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/516.%20Longest%20Palindromic%20Subsequence)   |
 | 518 | Coin Change II |  Medium  | [Here](https://leetcode.com/problems/coin-change-ii/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/518.%20Coin%20Change%20II)   |
 | 520 | Detect Capital |  Easy  | [Here](https://leetcode.com/problems/detect-capital/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/520.%20Detect%20Capital)   |
+| 522 | Longest Uncommon Subsequence II |  Medium  | [Here](https://leetcode.com/problems/longest-uncommon-subsequence-ii/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/522.%20Longest%20Uncommon%20Subsequence%20II)   |
 | --- | --------- |  ----  | Here   | Here   |
 
