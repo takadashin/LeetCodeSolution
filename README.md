@@ -18,5 +18,6 @@ Solution to LeetCode Problem
 | 520 | Detect Capital |  Easy  | [Here](https://leetcode.com/problems/detect-capital/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/520.%20Detect%20Capital)   |
 | 522 | Longest Uncommon Subsequence II |  Medium  | [Here](https://leetcode.com/problems/longest-uncommon-subsequence-ii/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/522.%20Longest%20Uncommon%20Subsequence%20II)   |
 | 523 | Continuous Subarray Sum |  Medium  | [Here](https://leetcode.com/problems/continuous-subarray-sum/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/523.%20Continuous%20Subarray%20Sum)   |
+| 524 | Longest Word in Dictionary through Deleting |  Medium  | [Here](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting)   |
 | --- | --------- |  ----  | Here   | Here   |
 
