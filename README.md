@@ -22,6 +22,5 @@ Solution to LeetCode Problem
 | 525 | Contiguous Array |  Medium  | [Here](https://leetcode.com/problems/contiguous-array/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/525.%20Contiguous%20Array)   |
 | 526 | Beautiful Arrangement |  Medium  | [Here](https://leetcode.com/problems/beautiful-arrangement/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/526.%20Beautiful%20Arrangement)   |
 | 528 | Random Pick with Weight |  Medium  | [Here](https://leetcode.com/problems/random-pick-with-weight/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/528.%20Random%20Pick%20with%20Weight)   |
-
 | --- | --------- |  ----  | Here   | Here   |
 
