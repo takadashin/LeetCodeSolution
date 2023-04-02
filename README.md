@@ -23,5 +23,6 @@ Solution to LeetCode Problem
 | 526 | Beautiful Arrangement |  Medium  | [Here](https://leetcode.com/problems/beautiful-arrangement/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/526.%20Beautiful%20Arrangement)   |
 | 528 | Random Pick with Weight |  Medium  | [Here](https://leetcode.com/problems/random-pick-with-weight/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/528.%20Random%20Pick%20with%20Weight)   |
 | 529 | Minesweeper |  Medium  | [Here](https://leetcode.com/problems/minesweeper/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/529.%20Minesweeper)   |
+| 530 | Minimum Absolute Difference in BST |  Easy  | [Here](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/530.%20Minimum%20Absolute%20Difference%20in%20BST)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
