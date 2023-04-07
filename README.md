@@ -25,5 +25,6 @@ Solution to LeetCode Problem
 | 529 | Minesweeper |  Medium  | [Here](https://leetcode.com/problems/minesweeper/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/529.%20Minesweeper)   |
 | 530 | Minimum Absolute Difference in BST |  Easy  | [Here](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/530.%20Minimum%20Absolute%20Difference%20in%20BST)   |
 | 532 | K-diff Pairs in an Array |  Medium  | [Here](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/532.%20K-diff%20Pairs%20in%20an%20Array)   |
+| 535 | Encode and Decode TinyURL |  Medium  | [Here](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/535.%20Encode%20and%20Decode%20TinyURL)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
