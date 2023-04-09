@@ -28,5 +28,6 @@ Solution to LeetCode Problem
 | 535 | Encode and Decode TinyURL |  Medium  | [Here](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/535.%20Encode%20and%20Decode%20TinyURL)   |
 | 537 | Complex Number Multiplication |  Medium  | [Here](https://leetcode.com/problems/complex-number-multiplication/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/537.%20Complex%20Number%20Multiplication)   |
 | 538 | Convert BST to Greater Tree |  Medium  | [Here](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/538.%20Convert%20BST%20to%20Greater%20Tree)   |
+| 539 | Minimum Time Difference |  Medium  | [Here](https://leetcode.com/problems/minimum-time-difference/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/539.%20Minimum%20Time%20Difference)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
