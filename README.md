@@ -32,5 +32,6 @@ Solution to LeetCode Problem
 | 540 | Single Element in a Sorted Array | Medium  | [Here](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/540.%20Single%20Element%20in%20a%20Sorted%20Array)   |
 | 541 | Reverse String II |  Easy  | [Here](https://leetcode.com/problems/reverse-string-ii/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/541.%20Reverse%20String%20II)   |
 | 542 | 01 Matrix |  Medium  | [Here](https://leetcode.com/problems/01-matrix/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/542.%2001%20Matrix)   |
+| 543 | Diameter of Binary Tree |  Easy  | [Here](https://leetcode.com/problems/diameter-of-binary-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/543.%20Diameter%20of%20Binary%20Tree)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
