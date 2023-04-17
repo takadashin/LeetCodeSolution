@@ -33,5 +33,8 @@ Solution to LeetCode Problem
 | 541 | Reverse String II |  Easy  | [Here](https://leetcode.com/problems/reverse-string-ii/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/541.%20Reverse%20String%20II)   |
 | 542 | 01 Matrix |  Medium  | [Here](https://leetcode.com/problems/01-matrix/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/542.%2001%20Matrix)   |
 | 543 | Diameter of Binary Tree |  Easy  | [Here](https://leetcode.com/problems/diameter-of-binary-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/543.%20Diameter%20of%20Binary%20Tree)   |
+| 547 | Number of Provinces |  Medium  | [Here](https://leetcode.com/problems/number-of-provinces/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/547.%20Number%20of%20Provinces)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
+
+
 
