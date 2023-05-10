@@ -34,6 +34,7 @@ Solution to LeetCode Problem
 | 542 | 01 Matrix |  Medium  | [Here](https://leetcode.com/problems/01-matrix/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/542.%2001%20Matrix)   |
 | 543 | Diameter of Binary Tree |  Easy  | [Here](https://leetcode.com/problems/diameter-of-binary-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/543.%20Diameter%20of%20Binary%20Tree)   |
 | 547 | Number of Provinces |  Medium  | [Here](https://leetcode.com/problems/number-of-provinces/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/547.%20Number%20of%20Provinces)   |
+| 546 | Remove Boxes |  Hard  | [Here](https://leetcode.com/problems/remove-boxes/description/)   | [Here]()   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
