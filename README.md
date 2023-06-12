@@ -38,6 +38,7 @@ Solution to LeetCode Problem
 | 551 | Student Attendance Record I |  Easy  | [Here](https://leetcode.com/problems/student-attendance-record-i/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/551.%20Student%20Attendance%20Record%20I)   |
 | 552 | Student Attendance Record II |  Hard  | [Here](https://leetcode.com/problems/student-attendance-record-ii/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/552.%20Student%20Attendance%20Record%20II)   |
 | 553 | Optimal Division |  Medium  | [Here](https://leetcode.com/problems/optimal-division/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/553.%20Optimal%20Division)   |
+| 554 | Brick Wall |  Medium  | [Here](https://leetcode.com/problems/brick-wall/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/554.%20Brick%20Wall)   
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
