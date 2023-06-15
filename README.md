@@ -40,6 +40,7 @@ Solution to LeetCode Problem
 | 553 | Optimal Division |  Medium  | [Here](https://leetcode.com/problems/optimal-division/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/553.%20Optimal%20Division)   |
 | 554 | Brick Wall |  Medium  | [Here](https://leetcode.com/problems/brick-wall/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/554.%20Brick%20Wall)   
 | 556 | Next Greater Element III |  Medium  | [Here](https://leetcode.com/problems/next-greater-element-iii/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/556.%20Next%20Greater%20Element%20III)   |
+| 1768 | Merge Strings Alternately Easy |  Easy  | [Here](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1768.%20Merge%20Strings%20Alternately)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
