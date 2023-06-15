@@ -41,6 +41,7 @@ Solution to LeetCode Problem
 | 554 | Brick Wall |  Medium  | [Here](https://leetcode.com/problems/brick-wall/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/554.%20Brick%20Wall)   
 | 556 | Next Greater Element III |  Medium  | [Here](https://leetcode.com/problems/next-greater-element-iii/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/556.%20Next%20Greater%20Element%20III)   |
 | 1768 | Merge Strings Alternately Easy |  Easy  | [Here](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1768.%20Merge%20Strings%20Alternately)   |
+| 1071 | Greatest Common Divisor of Strings |  Easy  | [Here](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1071.%20Greatest%20Common%20Divisor%20of%20Strings)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
