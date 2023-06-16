@@ -44,6 +44,7 @@ Solution to LeetCode Problem
 | 1071 | Greatest Common Divisor of Strings |  Easy  | [Here](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1071.%20Greatest%20Common%20Divisor%20of%20Strings)   |
 | 1431 | Kids With the Greatest Number of Candies |  Easy  | [Here](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies)   |
 | 605 | Can Place Flowers |  Easy  | [Here](https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/605.%20Can%20Place%20Flowers)   |
+| 345 | Reverse Vowels of a String |  Easy  | [Here](https://leetcode.com/problems/reverse-vowels-of-a-string/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/345.%20Reverse%20Vowels%20of%20a%20String)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
