@@ -49,8 +49,8 @@ Solution to LeetCode Problem
 | 238 | Product of Array Except Self |  Medium  | [Here](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/238.%20Product%20of%20Array%20Except%20Self)   |
 | 334 | Increasing Triplet Subsequence |  Medium  | [Here](https://leetcode.com/problems/increasing-triplet-subsequence/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/334.%20Increasing%20Triplet%20Subsequence)   |
 | 443 | String Compression |  Medium  | [Here](https://leetcode.com/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/443.%20String%20Compression)   |
+| 283 | Move Zeroes |  Easy  | [Here](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/283.%20Move%20Zeroes)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
