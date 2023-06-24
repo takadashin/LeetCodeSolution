@@ -55,6 +55,7 @@ Solution to LeetCode Problem
 | 643 | Maximum Average Subarray I |  Easy  | [Here](https://leetcode.com/problems/maximum-average-subarray-i/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/643.%20Maximum%20Average%20Subarray%20I)   |
 | 1456 | Maximum Number of Vowels in a Substring of Given Length |  Medium  | [Here](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length)   |
 |  1004 | Max Consecutive Ones III |  Medium  | [Here](https://leetcode.com/problems/max-consecutive-ones-iii/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1004.%20Max%20Consecutive%20Ones%20III)   |
+| 1493 | Longest Subarray of 1's After Deleting One Element |  Medium  | [Here](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
