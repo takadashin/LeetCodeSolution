@@ -57,7 +57,7 @@ Solution to LeetCode Problem
 |  1004 | Max Consecutive Ones III |  Medium  | [Here](https://leetcode.com/problems/max-consecutive-ones-iii/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1004.%20Max%20Consecutive%20Ones%20III)   |
 | 1493 | Longest Subarray of 1's After Deleting One Element |  Medium  | [Here](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element)   |
 | 1732 | Find the Highest Altitude |  Easy  | [Here](https://leetcode.com/problems/find-the-highest-altitude/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1732.%20Find%20the%20Highest%20Altitude)   |
-| 724 | Find Pivot Index- |  Easy  | [Here](https://leetcode.com/problems/find-pivot-index/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/724.%20Find%20Pivot%20Index)   |
+| 724 | Find Pivot Index |  Easy  | [Here](https://leetcode.com/problems/find-pivot-index/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/724.%20Find%20Pivot%20Index)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
