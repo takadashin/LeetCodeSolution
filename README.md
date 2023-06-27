@@ -60,6 +60,7 @@ Solution to LeetCode Problem
 | 724 | Find Pivot Index |  Easy  | [Here](https://leetcode.com/problems/find-pivot-index/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/724.%20Find%20Pivot%20Index)   |
 | 2215 | Find the Difference of Two Arrays |  Easy  | [Here](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/2215.%20Find%20the%20Difference%20of%20Two%20Arrays)   |
 | 1207 | Unique Number of Occurrences | Easy  | [Here](https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1207.%20Unique%20Number%20of%20Occurrences)   |
+| 1657 | Determine if Two Strings Are Close | Medium  | [Here](https://leetcode.com/problems/determine-if-two-strings-are-close/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1657.%20Determine%20if%20Two%20Strings%20Are%20Close)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
