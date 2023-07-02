@@ -62,8 +62,8 @@ Solution to LeetCode Problem
 | 1207 | Unique Number of Occurrences | Easy  | [Here](https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1207.%20Unique%20Number%20of%20Occurrences)   |
 | 1657 | Determine if Two Strings Are Close | Medium  | [Here](https://leetcode.com/problems/determine-if-two-strings-are-close/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1657.%20Determine%20if%20Two%20Strings%20Are%20Close)   |
 | 2352 | Equal Row and Column Pairs | Medium  | [Here](https://leetcode.com/problems/equal-row-and-column-pairs/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/2352.%20Equal%20Row%20and%20Column%20Pairs)   |
+| 2390 | Removing Stars From a String | Medium  | [Here](https://leetcode.com/problems/removing-stars-from-a-string/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/2390.%20Removing%20Stars%20From%20a%20String)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
