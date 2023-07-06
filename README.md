@@ -64,6 +64,7 @@ Solution to LeetCode Problem
 | 2352 | Equal Row and Column Pairs | Medium  | [Here](https://leetcode.com/problems/equal-row-and-column-pairs/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/2352.%20Equal%20Row%20and%20Column%20Pairs)   |
 | 2390 | Removing Stars From a String | Medium  | [Here](https://leetcode.com/problems/removing-stars-from-a-string/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/2390.%20Removing%20Stars%20From%20a%20String)   |
 | 735 | Asteroid Collision |  Medium  | [Here](https://leetcode.com/problems/asteroid-collision/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/735.%20Asteroid%20Collision)   |
+| 394 | Decode String |  Medium  | [Here](https://leetcode.com/problems/decode-string/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/394.%20Decode%20String)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
