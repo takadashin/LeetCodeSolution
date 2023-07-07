@@ -65,6 +65,7 @@ Solution to LeetCode Problem
 | 2390 | Removing Stars From a String | Medium  | [Here](https://leetcode.com/problems/removing-stars-from-a-string/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/2390.%20Removing%20Stars%20From%20a%20String)   |
 | 735 | Asteroid Collision |  Medium  | [Here](https://leetcode.com/problems/asteroid-collision/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/735.%20Asteroid%20Collision)   |
 | 394 | Decode String |  Medium  | [Here](https://leetcode.com/problems/decode-string/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/394.%20Decode%20String)   |
+| 933 | Number of Recent Calls |  Easy  | [Here](https://leetcode.com/problems/number-of-recent-calls/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/933.%20Number%20of%20Recent%20Calls)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
