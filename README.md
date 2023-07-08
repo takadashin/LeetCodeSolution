@@ -68,8 +68,8 @@ Solution to LeetCode Problem
 | 933 | Number of Recent Calls |  Easy  | [Here](https://leetcode.com/problems/number-of-recent-calls/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/933.%20Number%20of%20Recent%20Calls)   |
 | 649 | Dota2 Senate  |  Medium  | [Here](https://leetcode.com/problems/dota2-senate/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/649.%20Dota2%20Senate)   |
 | 2095 | Delete the Middle Node of a Linked List |  Medium  | [Here](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List)   |
+| 328 | Odd Even Linked List |  Medium  | [Here](https://leetcode.com/problems/odd-even-linked-list/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/328.%20Odd%20Even%20Linked%20List)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
