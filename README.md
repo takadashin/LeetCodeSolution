@@ -66,6 +66,6 @@ Solution to LeetCode Problem
 | 735 | Asteroid Collision |  Medium  | [Here](https://leetcode.com/problems/asteroid-collision/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/735.%20Asteroid%20Collision)   |
 | 394 | Decode String |  Medium  | [Here](https://leetcode.com/problems/decode-string/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/394.%20Decode%20String)   |
 | 933 | Number of Recent Calls |  Easy  | [Here](https://leetcode.com/problems/number-of-recent-calls/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/933.%20Number%20of%20Recent%20Calls)   |
+| 649 | Dota2 Senate  |  Medium  | [Here](https://leetcode.com/problems/dota2-senate/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/649.%20Dota2%20Senate)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
