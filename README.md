@@ -72,8 +72,8 @@ Solution to LeetCode Problem
 | 206 | Reverse Linked List | Easy  | [Here](https://leetcode.com/problems/reverse-linked-list/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/206.%20Reverse%20Linked%20List)  |
 | 2130 | Maximum Twin Sum of a Linked List  |  Medium  | [Here](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List)   |
 | 104 | Maximum Depth of Binary Tree |  Easy  | [Here](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/104.%20Maximum%20Depth%20of%20Binary%20Tree)   |
+| 872 | Leaf-Similar Trees |  Easy  | [Here](https://leetcode.com/problems/leaf-similar-trees/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/872.%20Leaf-Similar%20Trees)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
