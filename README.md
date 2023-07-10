@@ -75,6 +75,7 @@ Solution to LeetCode Problem
 | 872 | Leaf-Similar Trees |  Easy  | [Here](https://leetcode.com/problems/leaf-similar-trees/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/872.%20Leaf-Similar%20Trees)   |
 | 1448 | Count Good Nodes in Binary Tree |  Medium  | [Here](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree)   |
 | 437 | Path Sum III | Medium  | [Here](https://leetcode.com/problems/path-sum-iii/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/437.%20Path%20Sum%20III)   |
+| 1372 | Longest ZigZag Path in a Binary Tree |  Medium  | [Here](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1372.%20Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
