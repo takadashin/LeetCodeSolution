@@ -76,8 +76,9 @@ Solution to LeetCode Problem
 | 1448 | Count Good Nodes in Binary Tree |  Medium  | [Here](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree)   |
 | 437 | Path Sum III | Medium  | [Here](https://leetcode.com/problems/path-sum-iii/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/437.%20Path%20Sum%20III)   |
 | 1372 | Longest ZigZag Path in a Binary Tree |  Medium  | [Here](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1372.%20Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree)   |
+| 236 | Lowest Common Ancestor of a Binary Tree
+ |  Medium  | [Here](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
