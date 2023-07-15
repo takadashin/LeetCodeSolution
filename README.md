@@ -79,8 +79,8 @@ Solution to LeetCode Problem
 | 236 | Lowest Common Ancestor of a Binary Tree |  Medium  | [Here](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)   |
 | 199 | Binary Tree Right Side View |  Medium  | [Here](https://leetcode.com/problems/binary-tree-right-side-view/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/199.%20Binary%20Tree%20Right%20Side%20View)   |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium  | [Here](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)   |
+| 700 | Search in a Binary Search Tree |  Easy  | [Here](https://leetcode.com/problems/search-in-a-binary-search-tree/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/700.%20Search%20in%20a%20Binary%20Search%20Tree)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
