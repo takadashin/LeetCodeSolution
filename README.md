@@ -82,8 +82,8 @@ Solution to LeetCode Problem
 | 700 | Search in a Binary Search Tree |  Easy  | [Here](https://leetcode.com/problems/search-in-a-binary-search-tree/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/700.%20Search%20in%20a%20Binary%20Search%20Tree)   |
 | 450 | Delete Node in a BST | Medium  | [Here](https://leetcode.com/problems/delete-node-in-a-bst/description/?source=submission-ac)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/450.%20Delete%20Node%20in%20a%20BST)   |
 | 841 | Keys and Rooms | Medium  | [Here](https://leetcode.com/problems/keys-and-rooms/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/841.%20Keys%20and%20Rooms)   |
+| 1466 | Reorder Routes to Make All Paths Lead to the City Zero |  Medium  | [Here](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
