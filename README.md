@@ -85,7 +85,7 @@ Solution to LeetCode Problem
 | 1466 | Reorder Routes to Make All Paths Lead to the City Zero |  Medium  | [Here](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero)   |
 | 399 | Evaluate Division | Medium  | [Here](https://leetcode.com/problems/evaluate-division/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/399.%20Evaluate%20Division)   |
 | 1926 | Nearest Exit from Entrance in Maze | Medium  | [Here](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze)   |
-| 994. Rotting Oranges |  Medium  | [Here](https://leetcode.com/problems/rotting-oranges/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/994.%20Rotting%20Oranges)   |
+| 994 | Rotting Oranges |  Medium  | [Here](https://leetcode.com/problems/rotting-oranges/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/994.%20Rotting%20Oranges)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
