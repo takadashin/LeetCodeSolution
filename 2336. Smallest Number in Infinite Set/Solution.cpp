@@ -1,24 +1,31 @@
 class SmallestInfiniteSet {
-   
+    int current;
     set<int> check;
 public:
     SmallestInfiniteSet() {
       
         check.clear();
-        for(int i = 1;i <= 1000;i++)
-        {check.insert(i);}
+        current = 1;
     }
     
     int popSmallest() {
-        auto pos = check.begin();
+        if(check.size())
+        {auto pos = check.begin();
 
         int x = *pos;
         check.erase(pos);
-        return x;
+         return x;
+        }
+        else
+        {
+            current++;
+            return current -1;
+        }
+       
     }
     
     void addBack(int num) {
-     
+        if(num < current)
         check.insert(num);
     }
 };
