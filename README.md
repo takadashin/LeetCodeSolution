@@ -86,8 +86,8 @@ Solution to LeetCode Problem
 | 399 | Evaluate Division | Medium  | [Here](https://leetcode.com/problems/evaluate-division/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/399.%20Evaluate%20Division)   |
 | 1926 | Nearest Exit from Entrance in Maze | Medium  | [Here](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze)   |
 | 994 | Rotting Oranges |  Medium  | [Here](https://leetcode.com/problems/rotting-oranges/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/994.%20Rotting%20Oranges)   |
+| 2336 | Smallest Number in Infinite Set | Medium  | [Here](https://leetcode.com/problems/smallest-number-in-infinite-set/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/2336.%20Smallest%20Number%20in%20Infinite%20Set)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
