@@ -88,6 +88,7 @@ Solution to LeetCode Problem
 | 994 | Rotting Oranges |  Medium  | [Here](https://leetcode.com/problems/rotting-oranges/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/994.%20Rotting%20Oranges)   |
 | 2336 | Smallest Number in Infinite Set | Medium  | [Here](https://leetcode.com/problems/smallest-number-in-infinite-set/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/2336.%20Smallest%20Number%20in%20Infinite%20Set)   |
 | 2542 | Maximum Subsequence Score | Medium  | [Here](https://leetcode.com/problems/maximum-subsequence-score/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/2542.%20Maximum%20Subsequence%20Score)   |
+| 2462 | Total Cost to Hire K Workers | Medium  | [Here](https://leetcode.com/problems/total-cost-to-hire-k-workers/)   | [Here](https://github.com/takadashin/LeetCodeSolution/blob/main/2462.%20Total%20Cost%20to%20Hire%20K%20Workers/Solution.cpp)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
