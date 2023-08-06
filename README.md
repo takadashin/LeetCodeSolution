@@ -89,8 +89,8 @@ Solution to LeetCode Problem
 | 2336 | Smallest Number in Infinite Set | Medium  | [Here](https://leetcode.com/problems/smallest-number-in-infinite-set/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/2336.%20Smallest%20Number%20in%20Infinite%20Set)   |
 | 2542 | Maximum Subsequence Score | Medium  | [Here](https://leetcode.com/problems/maximum-subsequence-score/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/2542.%20Maximum%20Subsequence%20Score)   |
 | 2462 | Total Cost to Hire K Workers | Medium  | [Here](https://leetcode.com/problems/total-cost-to-hire-k-workers/)   | [Here](https://github.com/takadashin/LeetCodeSolution/blob/main/2462.%20Total%20Cost%20to%20Hire%20K%20Workers/Solution.cpp)   |
+| 2300 | Successful Pairs of Spells and Potions | Medium | [Here](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
