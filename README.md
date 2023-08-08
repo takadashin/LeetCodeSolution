@@ -90,8 +90,8 @@ Solution to LeetCode Problem
 | 2542 | Maximum Subsequence Score | Medium  | [Here](https://leetcode.com/problems/maximum-subsequence-score/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/2542.%20Maximum%20Subsequence%20Score)   |
 | 2462 | Total Cost to Hire K Workers | Medium  | [Here](https://leetcode.com/problems/total-cost-to-hire-k-workers/)   | [Here](https://github.com/takadashin/LeetCodeSolution/blob/main/2462.%20Total%20Cost%20to%20Hire%20K%20Workers/Solution.cpp)   |
 | 2300 | Successful Pairs of Spells and Potions | Medium | [Here](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions)   |
-| 875. Koko Eating Bananas | Medium  | [Here](https://leetcode.com/problems/koko-eating-bananas/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/875.%20Koko%20Eating%20Bananas)   |
+| 875 | Koko Eating Bananas | Medium  | [Here](https://leetcode.com/problems/koko-eating-bananas/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/875.%20Koko%20Eating%20Bananas)   |
+| 1137 | N-th Tribonacci Number |  Easy  | [Here](https://leetcode.com/problems/n-th-tribonacci-number/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1137.%20N-th%20Tribonacci%20Number)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
