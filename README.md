@@ -92,6 +92,6 @@ Solution to LeetCode Problem
 | 2300 | Successful Pairs of Spells and Potions | Medium | [Here](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions)   |
 | 875 | Koko Eating Bananas | Medium  | [Here](https://leetcode.com/problems/koko-eating-bananas/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/875.%20Koko%20Eating%20Bananas)   |
 | 1137 | N-th Tribonacci Number |  Easy  | [Here](https://leetcode.com/problems/n-th-tribonacci-number/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1137.%20N-th%20Tribonacci%20Number)   |
+| 790 | Domino and Tromino Tiling | Medium  | [Here](https://leetcode.com/problems/domino-and-tromino-tiling/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/790.%20Domino%20and%20Tromino%20Tiling)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
