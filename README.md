@@ -93,5 +93,24 @@ Solution to LeetCode Problem
 | 875 | Koko Eating Bananas | Medium  | [Here](https://leetcode.com/problems/koko-eating-bananas/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/875.%20Koko%20Eating%20Bananas)   |
 | 1137 | N-th Tribonacci Number |  Easy  | [Here](https://leetcode.com/problems/n-th-tribonacci-number/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1137.%20N-th%20Tribonacci%20Number)   |
 | 790 | Domino and Tromino Tiling | Medium  | [Here](https://leetcode.com/problems/domino-and-tromino-tiling/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/790.%20Domino%20and%20Tromino%20Tiling)   |
+| 1143 | Longest Common Subsequence | Medium  | [Here](https://leetcode.com/problems/longest-common-subsequence/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1143.%20Longest%20Common%20Subsequence)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
