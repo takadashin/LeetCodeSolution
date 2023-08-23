@@ -95,8 +95,8 @@ Solution to LeetCode Problem
 | 790 | Domino and Tromino Tiling | Medium  | [Here](https://leetcode.com/problems/domino-and-tromino-tiling/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/790.%20Domino%20and%20Tromino%20Tiling)   |
 | 1143 | Longest Common Subsequence | Medium  | [Here](https://leetcode.com/problems/longest-common-subsequence/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1143.%20Longest%20Common%20Subsequence)   |
 | 714 | Best Time to Buy and Sell Stock with Transaction Fee | Medium |  | [Here](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee)   |
+| 72 | Edit Distance | Medium  | [Here](https://leetcode.com/problems/edit-distance/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/72.%20Edit%20Distance)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
