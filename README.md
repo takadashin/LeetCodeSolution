@@ -98,6 +98,7 @@ Solution to LeetCode Problem
 | 72 | Edit Distance | Medium  | [Here](https://leetcode.com/problems/edit-distance/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/72.%20Edit%20Distance)   |
 | 1318 | Minimum Flips to Make a OR b Equal to c | Medium  | [Here](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c)   |
 | 208 | Implement Trie (Prefix Tree) | Medium  | [Here](https://leetcode.com/problems/implement-trie-prefix-tree/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/208.%20Implement%20Trie%20(Prefix%20Tree))   |
+| 1268 | Search Suggestions System  | Medium  | [Here](https://leetcode.com/problems/search-suggestions-system/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1268.%20Search%20Suggestions%20System)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
