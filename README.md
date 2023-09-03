@@ -100,9 +100,7 @@ Solution to LeetCode Problem
 | 208 | Implement Trie (Prefix Tree) | Medium  | [Here](https://leetcode.com/problems/implement-trie-prefix-tree/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/208.%20Implement%20Trie%20(Prefix%20Tree))   |
 | 1268 | Search Suggestions System  | Medium  | [Here](https://leetcode.com/problems/search-suggestions-system/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/1268.%20Search%20Suggestions%20System)   |
 | 739 | Daily Temperatures | Medium  | [Here](https://leetcode.com/problems/daily-temperatures/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/739.%20Daily%20Temperatures)   |
-| 901 | Online Stock Span | Medium
-  | [Here](https://leetcode.com/problems/online-stock-span/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/901.%20Online%20Stock%20Span)   |
-(https://github.com/takadashin/LeetCodeSolution/tree/main/739.%20Daily%20Temperatures)   |
+| 901 | Online Stock Span | Medium  | [Here](https://leetcode.com/problems/online-stock-span/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/901.%20Online%20Stock%20Span)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
