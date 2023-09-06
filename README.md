@@ -103,8 +103,8 @@ Solution to LeetCode Problem
 | 901 | Online Stock Span | Medium  | [Here](https://leetcode.com/problems/online-stock-span/description/?envType=study-plan-v2&envId=leetcode-75)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/901.%20Online%20Stock%20Span)   |
 | 557 | Reverse Words in a String III | Easy  | [Here](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/557.%20Reverse%20Words%20in%20a%20String%20III)   |
 | 558 | Logical OR of Two Binary Grids Represented as Quad-Trees | Medium  | [Here](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/558.%20Logical%20OR%20of%20Two%20Binary%20Grids%20Represented%20as%20Quad-Trees)   |
+| 559 | Maximum Depth of N-ary Tree |  Easy  | [Here](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/559.%20Maximum%20Depth%20of%20N-ary%20Tree)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
