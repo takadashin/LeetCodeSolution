@@ -108,7 +108,23 @@ Solution to LeetCode Problem
 | 563 | Binary Tree Tilt | Easy  | [Here](https://leetcode.com/problems/binary-tree-tilt/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/563.%20Binary%20Tree%20Tilt)   |
 | 565 | Array Nesting |  Medium  | [Here](https://leetcode.com/problems/array-nesting/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/565.%20Array%20Nesting)   |
 | 566 | Reshape the Matrix | Easy  | [Here](https://leetcode.com/problems/reshape-the-matrix/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/566.%20Reshape%20the%20Matrix)   |
+| 567 | Permutation in String | Medium  | [Here](https://leetcode.com/problems/permutation-in-string/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/567.%20Permutation%20in%20String)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
