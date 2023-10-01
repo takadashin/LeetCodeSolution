@@ -113,8 +113,7 @@ Solution to LeetCode Problem
 | 575 | Distribute Candies |  Easy  | [Here](https://leetcode.com/problems/distribute-candies/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/575.%20Distribute%20Candies)   |
 | 576 | Out of Boundary Paths |  Medium  | [Here](https://leetcode.com/problems/out-of-boundary-paths/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/576.%20Out%20of%20Boundary%20Paths)   |
 | 581 |  Shortest Unsorted Continuous Subarray |  Medium  | [Here](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/581.%20Shortest%20Unsorted%20Continuous%20Subarray)   |
-| 583 | Delete Operation for Two Strings  |  Medium  | [Here](https://leetcode.com/problems/delete-operation-for-two-strings/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/583.%20Delete%20Operation%20for%20Two%20Strings
-)   |
+| 583 | Delete Operation for Two Strings  |  Medium  | [Here](https://leetcode.com/problems/delete-operation-for-two-strings/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/583.%20Delete%20Operation%20for%20Two%20Strings)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
