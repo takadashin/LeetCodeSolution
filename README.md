@@ -119,8 +119,8 @@ Solution to LeetCode Problem
 | 592 | Fraction Addition and Subtraction |  Medium  | [Here](https://leetcode.com/problems/fraction-addition-and-subtraction/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/592.%20Fraction%20Addition%20and%20Subtraction)   |
 | 593 | Valid Square |  Medium  | [Here](https://leetcode.com/problems/valid-square/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/593.%20Valid%20Square)   |
 | 594 | Longest Harmonious Subsequence |  Easy  | [Here](https://leetcode.com/problems/longest-harmonious-subsequence/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/594.%20Longest%20Harmonious%20Subsequence)   |
+| 598 | Range Addition II |  Easy  | [Here](https://leetcode.com/problems/range-addition-ii/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/598.%20Range%20Addition%20II)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
