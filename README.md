@@ -121,8 +121,8 @@ Solution to LeetCode Problem
 | 594 | Longest Harmonious Subsequence |  Easy  | [Here](https://leetcode.com/problems/longest-harmonious-subsequence/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/594.%20Longest%20Harmonious%20Subsequence)   |
 | 598 | Range Addition II |  Easy  | [Here](https://leetcode.com/problems/range-addition-ii/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/598.%20Range%20Addition%20II)   |
 | 599 | Minimum Index Sum of Two Lists  |  Easy  | [Here](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists)   |
+| 606. Construct String from Binary Tree |  Easy  | [Here](https://leetcode.com/problems/construct-string-from-binary-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/606.%20Construct%20String%20from%20Binary%20Tree)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
