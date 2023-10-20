@@ -123,8 +123,8 @@ Solution to LeetCode Problem
 | 599 | Minimum Index Sum of Two Lists  |  Easy  | [Here](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists)   |
 | 606 | Construct String from Binary Tree |  Easy  | [Here](https://leetcode.com/problems/construct-string-from-binary-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/606.%20Construct%20String%20from%20Binary%20Tree)   |
 | 609 | Find Duplicate File in System |  Medium  | [Here](https://leetcode.com/problems/find-duplicate-file-in-system/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/609.%20Find%20Duplicate%20File%20in%20System)   |
+| 611 | Valid Triangle Number |  Medium  | [Here](https://leetcode.com/problems/valid-triangle-number/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/611.%20Valid%20Triangle%20Number)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
