@@ -124,8 +124,8 @@ Solution to LeetCode Problem
 | 606 | Construct String from Binary Tree |  Easy  | [Here](https://leetcode.com/problems/construct-string-from-binary-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/606.%20Construct%20String%20from%20Binary%20Tree)   |
 | 609 | Find Duplicate File in System |  Medium  | [Here](https://leetcode.com/problems/find-duplicate-file-in-system/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/609.%20Find%20Duplicate%20File%20in%20System)   |
 | 611 | Valid Triangle Number |  Medium  | [Here](https://leetcode.com/problems/valid-triangle-number/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/611.%20Valid%20Triangle%20Number)   |
+| 617 | Merge Two Binary Trees |  Easy  | [Here](https://leetcode.com/problems/merge-two-binary-trees/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/617.%20Merge%20Two%20Binary%20Trees)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
