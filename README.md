@@ -125,8 +125,8 @@ Solution to LeetCode Problem
 | 609 | Find Duplicate File in System |  Medium  | [Here](https://leetcode.com/problems/find-duplicate-file-in-system/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/609.%20Find%20Duplicate%20File%20in%20System)   |
 | 611 | Valid Triangle Number |  Medium  | [Here](https://leetcode.com/problems/valid-triangle-number/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/611.%20Valid%20Triangle%20Number)   |
 | 617 | Merge Two Binary Trees |  Easy  | [Here](https://leetcode.com/problems/merge-two-binary-trees/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/617.%20Merge%20Two%20Binary%20Trees)   |
+| 621 | Task Scheduler |  Medium  | [Here](https://leetcode.com/problems/task-scheduler/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/621.%20Task%20Scheduler)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
