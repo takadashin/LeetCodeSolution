@@ -126,8 +126,7 @@ Solution to LeetCode Problem
 | 611 | Valid Triangle Number |  Medium  | [Here](https://leetcode.com/problems/valid-triangle-number/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/611.%20Valid%20Triangle%20Number)   |
 | 617 | Merge Two Binary Trees |  Easy  | [Here](https://leetcode.com/problems/merge-two-binary-trees/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/617.%20Merge%20Two%20Binary%20Trees)   |
 | 621 | Task Scheduler |  Medium  | [Here](https://leetcode.com/problems/task-scheduler/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/621.%20Task%20Scheduler)   |
-| 622 | Design Circular Queue |  Medium  | [Here](https://leetcode.com/problems/design-circular-queue/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/622.%20Design%20Circular%20Queue
-)   |
+| 622 | Design Circular Queue |  Medium  | [Here](https://leetcode.com/problems/design-circular-queue/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/622.%20Design%20Circular%20Queue)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
