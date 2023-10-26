@@ -128,8 +128,7 @@ Solution to LeetCode Problem
 | 621 | Task Scheduler |  Medium  | [Here](https://leetcode.com/problems/task-scheduler/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/621.%20Task%20Scheduler)   |
 | 622 | Design Circular Queue |  Medium  | [Here](https://leetcode.com/problems/design-circular-queue/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/622.%20Design%20Circular%20Queue)   |
 | 623 | Add One Row to Tree |  Medium  | [Here](https://leetcode.com/problems/add-one-row-to-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/623.%20Add%20One%20Row%20to%20Tree)   |
-| 628 | Maximum Product of Three Numbers |  Easy  | [Here](https://leetcode.com/problems/maximum-product-of-three-numbers/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/628.%20Maximum%20Product%20of%20Three%20Numbers
-)   |
+| 628 | Maximum Product of Three Numbers |  Easy  | [Here](https://leetcode.com/problems/maximum-product-of-three-numbers/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/628.%20Maximum%20Product%20of%20Three%20Numbers)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
