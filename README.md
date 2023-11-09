@@ -130,8 +130,8 @@ Solution to LeetCode Problem
 | 623 | Add One Row to Tree |  Medium  | [Here](https://leetcode.com/problems/add-one-row-to-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/623.%20Add%20One%20Row%20to%20Tree)   |
 | 628 | Maximum Product of Three Numbers |  Easy  | [Here](https://leetcode.com/problems/maximum-product-of-three-numbers/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/628.%20Maximum%20Product%20of%20Three%20Numbers)   |
 | 628 | Maximum Product of Three Numbers |  Hard  | [Here](https://leetcode.com/problems/maximum-product-of-three-numbers/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/629.%20K%20Inverse%20Pairs%20Array)   |
+| 630 | Course Schedule III |  Hard  | [Here](https://leetcode.com/problems/course-schedule-iii/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/630.%20Course%20Schedule%20III)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
