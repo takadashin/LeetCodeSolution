@@ -134,8 +134,8 @@ Solution to LeetCode Problem
 | 632 | Smallest Range Covering Elements from K Lists |  Hard  | [Here](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists)   |
 | 633 | Sum of Square Numbers | Medium  | [Here](https://leetcode.com/problems/sum-of-square-numbers/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/633.%20Sum%20of%20Square%20Numbers)   |
 | 636 | Exclusive Time of Functions |  Medium  | [Here](https://leetcode.com/problems/exclusive-time-of-functions/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/636.%20Exclusive%20Time%20of%20Functions)   |
+| 637 | Average of Levels in Binary Tree |  Easy  | [Here](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/637.%20Average%20of%20Levels%20in%20Binary%20Tree)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
