@@ -133,6 +133,7 @@ Solution to LeetCode Problem
 | 630 | Course Schedule III |  Hard  | [Here](https://leetcode.com/problems/course-schedule-iii/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/630.%20Course%20Schedule%20III)   |
 | 632 | Smallest Range Covering Elements from K Lists |  Hard  | [Here](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists)   |
 | 633 | Sum of Square Numbers | Medium  | [Here](https://leetcode.com/problems/sum-of-square-numbers/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/633.%20Sum%20of%20Square%20Numbers)   |
+| 636 | Exclusive Time of Functions |  Medium  | [Here](https://leetcode.com/problems/exclusive-time-of-functions/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/636.%20Exclusive%20Time%20of%20Functions)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
@@ -143,5 +144,4 @@ Solution to LeetCode Problem
 
 
 
-Sum of Square Numbers Solved Medium
 
