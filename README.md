@@ -138,8 +138,8 @@ Solution to LeetCode Problem
 | 638 | Shopping Offers |  Medium  | [Here](https://leetcode.com/problems/shopping-offers/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/638.%20Shopping%20Offers)   |
 | 640 | Solve the Equation |  Medium  | [Here](https://leetcode.com/problems/solve-the-equation/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/640.%20Solve%20the%20Equation)   |
 | 641 | Design Circular Deque |  Medium  | [Here](https://leetcode.com/problems/design-circular-deque/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/641.%20Design%20Circular%20Deque)   |
+| 645 | Set Mismatch |  Easy  | [Here](https://leetcode.com/problems/set-mismatch/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/645.%20Set%20Mismatch)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
