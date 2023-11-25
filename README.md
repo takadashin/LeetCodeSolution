@@ -137,8 +137,8 @@ Solution to LeetCode Problem
 | 637 | Average of Levels in Binary Tree |  Easy  | [Here](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/637.%20Average%20of%20Levels%20in%20Binary%20Tree)   |
 | 638 | Shopping Offers |  Medium  | [Here](https://leetcode.com/problems/shopping-offers/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/638.%20Shopping%20Offers)   |
 | 640 | Solve the Equation |  Medium  | [Here](https://leetcode.com/problems/solve-the-equation/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/640.%20Solve%20the%20Equation)   |
+| 641 | Design Circular Deque |  Medium  | [Here](https://leetcode.com/problems/design-circular-deque/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/641.%20Design%20Circular%20Deque)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
