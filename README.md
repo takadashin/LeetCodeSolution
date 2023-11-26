@@ -139,8 +139,8 @@ Solution to LeetCode Problem
 | 640 | Solve the Equation |  Medium  | [Here](https://leetcode.com/problems/solve-the-equation/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/640.%20Solve%20the%20Equation)   |
 | 641 | Design Circular Deque |  Medium  | [Here](https://leetcode.com/problems/design-circular-deque/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/641.%20Design%20Circular%20Deque)   |
 | 645 | Set Mismatch |  Easy  | [Here](https://leetcode.com/problems/set-mismatch/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/645.%20Set%20Mismatch)   |
+| 646 | Maximum Length of Pair Chain |  Medium  | [Here](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/646.%20Maximum%20Length%20of%20Pair%20Chain)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
