@@ -142,8 +142,8 @@ Solution to LeetCode Problem
 | 646 | Maximum Length of Pair Chain |  Medium  | [Here](https://leetcode.com/problems/maximum-length-of-pair-chain/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/646.%20Maximum%20Length%20of%20Pair%20Chain)   |
 | 647 | Palindromic Substrings |  Medium  | [Here](https://leetcode.com/problems/palindromic-substrings/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/647.%20Palindromic%20Substrings)   |
 | 648 | Replace Words |  Medium  | [Here](https://leetcode.com/problems/replace-words/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/648.%20Replace%20Words)   |
+| 650 | 2 Keys Keyboard |  Medium  | [Here](https://leetcode.com/problems/2-keys-keyboard/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/650.%202%20Keys%20Keyboard)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
