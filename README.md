@@ -143,8 +143,8 @@ Solution to LeetCode Problem
 | 647 | Palindromic Substrings |  Medium  | [Here](https://leetcode.com/problems/palindromic-substrings/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/647.%20Palindromic%20Substrings)   |
 | 648 | Replace Words |  Medium  | [Here](https://leetcode.com/problems/replace-words/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/648.%20Replace%20Words)   |
 | 650 | 2 Keys Keyboard |  Medium  | [Here](https://leetcode.com/problems/2-keys-keyboard/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/650.%202%20Keys%20Keyboard)   |
+| 652 | Find Duplicate Subtrees |  Medium  | [Here](https://leetcode.com/problems/find-duplicate-subtrees/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/652.%20Find%20Duplicate%20Subtrees)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
