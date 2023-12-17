@@ -154,8 +154,7 @@ Solution to LeetCode Problem
 | 667 | Beautiful Arrangement II |  Medium  | [Here](https://leetcode.com/problems/beautiful-arrangement-ii/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/667.%20Beautiful%20Arrangement%20II)   |
 | 669 | Trim a Binary Search Tree |  Medium  | [Here](https://leetcode.com/problems/trim-a-binary-search-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/669.%20Trim%20a%20Binary%20Search%20Tree)   |
 | 670 | Maximum Swap |  Medium  | [Here](https://leetcode.com/problems/maximum-swap/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/670.%20Maximum%20Swap)   |
-| 671 | Second Minimum Node In a Binary Tree |  Easy  | [Here](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree
-)   |
+| 671 | Second Minimum Node In a Binary Tree |  Easy  | [Here](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
