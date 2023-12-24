@@ -155,6 +155,7 @@ Solution to LeetCode Problem
 | 669 | Trim a Binary Search Tree |  Medium  | [Here](https://leetcode.com/problems/trim-a-binary-search-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/669.%20Trim%20a%20Binary%20Search%20Tree)   |
 | 670 | Maximum Swap |  Medium  | [Here](https://leetcode.com/problems/maximum-swap/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/670.%20Maximum%20Swap)   |
 | 671 | Second Minimum Node In a Binary Tree |  Easy  | [Here](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree)   |
+| 673 | Number of Longest Increasing Subsequence |  Medium  | [Here](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/673.%20Number%20of%20Longest%20Increasing%20Subsequence)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
