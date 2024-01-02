@@ -159,8 +159,8 @@ Solution to LeetCode Problem
 | 674 | Longest Continuous Increasing Subsequence |  Easy  | [Here](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/674.%20Longest%20Continuous%20Increasing%20Subsequence)   |
 | 676 | Implement Magic Dictionary |  Medium  | [Here](https://leetcode.com/problems/implement-magic-dictionary/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/676.%20Implement%20Magic%20Dictionary)   |
 | 678 | Valid Parenthesis String |  Medium  | [Here](https://leetcode.com/problems/valid-parenthesis-string/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/678.%20Valid%20Parenthesis%20String)   |
+| 680 | Valid Palindrome II |  Easy | [Here](https://leetcode.com/problems/valid-palindrome-ii/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/680.%20Valid%20Palindrome%20II)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
