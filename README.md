@@ -160,8 +160,8 @@ Solution to LeetCode Problem
 | 676 | Implement Magic Dictionary |  Medium  | [Here](https://leetcode.com/problems/implement-magic-dictionary/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/676.%20Implement%20Magic%20Dictionary)   |
 | 678 | Valid Parenthesis String |  Medium  | [Here](https://leetcode.com/problems/valid-parenthesis-string/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/678.%20Valid%20Parenthesis%20String)   |
 | 680 | Valid Palindrome II |  Easy | [Here](https://leetcode.com/problems/valid-palindrome-ii/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/680.%20Valid%20Palindrome%20II)   |
+| 682 | Baseball Game |  Easy  | [Here](https://leetcode.com/problems/baseball-game/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/682.%20Baseball%20Game)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
