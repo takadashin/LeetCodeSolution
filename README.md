@@ -163,8 +163,8 @@ Solution to LeetCode Problem
 | 682 | Baseball Game |  Easy  | [Here](https://leetcode.com/problems/baseball-game/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/682.%20Baseball%20Game)   |
 | 684 | Redundant Connection |  Medium  | [Here](https://leetcode.com/problems/redundant-connection/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/684.%20Redundant%20Connection)   |
 | 686 | Repeated String Match |  Medium  | [Here](https://leetcode.com/problems/repeated-string-match/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/686.%20Repeated%20String%20Match)   |
+| 687 | Longest Univalue Path |  Medium  | [Here](https://leetcode.com/problems/longest-univalue-path/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/687.%20Longest%20Univalue%20Path)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
