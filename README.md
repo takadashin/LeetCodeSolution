@@ -165,6 +165,7 @@ Solution to LeetCode Problem
 | 686 | Repeated String Match |  Medium  | [Here](https://leetcode.com/problems/repeated-string-match/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/686.%20Repeated%20String%20Match)   |
 | 687 | Longest Univalue Path |  Medium  | [Here](https://leetcode.com/problems/longest-univalue-path/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/687.%20Longest%20Univalue%20Path)   |
 | 688 | Knight Probability in Chessboard |  Medium  | [Here](https://leetcode.com/problems/knight-probability-in-chessboard/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/688.%20Knight%20Probability%20in%20Chessboard)   |
+| 690 | Employee Importance |  Medium  | [Here](https://leetcode.com/problems/employee-importance/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/690.%20Employee%20Importance)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
