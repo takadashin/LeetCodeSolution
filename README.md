@@ -167,8 +167,8 @@ Solution to LeetCode Problem
 | 688 | Knight Probability in Chessboard |  Medium  | [Here](https://leetcode.com/problems/knight-probability-in-chessboard/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/688.%20Knight%20Probability%20in%20Chessboard)   |
 | 690 | Employee Importance |  Medium  | [Here](https://leetcode.com/problems/employee-importance/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/690.%20Employee%20Importance)   |
 | 692 | Top K Frequent Words |  Medium  | [Here](https://leetcode.com/problems/top-k-frequent-words/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/692.%20Top%20K%20Frequent%20Words)   |
+| 693 | Binary Number with Alternating Bits |  Easy  | [Here](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/693.%20Binary%20Number%20with%20Alternating%20Bits)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
