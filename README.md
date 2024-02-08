@@ -170,8 +170,8 @@ Solution to LeetCode Problem
 | 693 | Binary Number with Alternating Bits |  Easy  | [Here](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/693.%20Binary%20Number%20with%20Alternating%20Bits)   |
 | 695 | Max Area of Island |  Medium  | [Here](https://leetcode.com/problems/max-area-of-island/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/695.%20Max%20Area%20of%20Island)   |
 | 696 | Count Binary Substrings |  Easy  | [Here](https://leetcode.com/problems/count-binary-substrings/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/696.%20Count%20Binary%20Substrings)   |
+| 697 | Degree of an Array |  Easy  | [Here](https://leetcode.com/problems/degree-of-an-array/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/697.%20Degree%20of%20an%20Array)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
