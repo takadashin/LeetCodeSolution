@@ -171,6 +171,7 @@ Solution to LeetCode Problem
 | 695 | Max Area of Island |  Medium  | [Here](https://leetcode.com/problems/max-area-of-island/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/695.%20Max%20Area%20of%20Island)   |
 | 696 | Count Binary Substrings |  Easy  | [Here](https://leetcode.com/problems/count-binary-substrings/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/696.%20Count%20Binary%20Substrings)   |
 | 697 | Degree of an Array |  Easy  | [Here](https://leetcode.com/problems/degree-of-an-array/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/697.%20Degree%20of%20an%20Array)   |
+| 698 | Partition to K Equal Sum Subsets |  Medium  | [Here](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
