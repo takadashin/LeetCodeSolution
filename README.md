@@ -175,9 +175,8 @@ Solution to LeetCode Problem
 | 701 | Insert into a Binary Search Tree |  Medium  | [Here](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/701.%20Insert%20into%20a%20Binary%20Search%20Tree)   |
 | 703 | Kth Largest Element in a Stream |  Easy  | [Here](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/703.%20Kth%20Largest%20Element%20in%20a%20Stream)   |
 | 704 | Binary Search |  Easy  | [Here](https://leetcode.com/problems/binary-search/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/704.%20Binary%20Search)   |
+| 705 | Design HashSet |  Easy  | [Here](https://leetcode.com/problems/design-hashset/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/705.%20Design%20HashSet)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
-
 
 
 
