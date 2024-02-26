@@ -178,8 +178,8 @@ Solution to LeetCode Problem
 | 705 | Design HashSet |  Easy  | [Here](https://leetcode.com/problems/design-hashset/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/705.%20Design%20HashSet)   |
 | 706 | Design HashMap |  Easy  | [Here](https://leetcode.com/problems/design-hashmap/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/706.%20Design%20HashMap)   |
 | 707 | Design Linked List |  Medium  | [Here](https://leetcode.com/problems/design-linked-list/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/707.%20Design%20Linked%20List)   |
+| 709 | To Lower Case |  Easy  | [Here](https://leetcode.com/problems/to-lower-case/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/709.%20To%20Lower%20Case)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
