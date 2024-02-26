@@ -177,8 +177,8 @@ Solution to LeetCode Problem
 | 704 | Binary Search |  Easy  | [Here](https://leetcode.com/problems/binary-search/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/704.%20Binary%20Search)   |
 | 705 | Design HashSet |  Easy  | [Here](https://leetcode.com/problems/design-hashset/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/705.%20Design%20HashSet)   |
 | 706 | Design HashMap |  Easy  | [Here](https://leetcode.com/problems/design-hashmap/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/706.%20Design%20HashMap)   |
+| 707 | Design Linked List |  Medium  | [Here](https://leetcode.com/problems/design-linked-list/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/707.%20Design%20Linked%20List)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
