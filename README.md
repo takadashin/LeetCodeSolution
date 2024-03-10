@@ -182,7 +182,31 @@ Solution to LeetCode Problem
 | 712 | Minimum ASCII Delete Sum for Two Strings |  Medium  | [Here](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings)   |
 | 713 | Subarray Product Less Than K |  Medium  | [Here](https://leetcode.com/problems/subarray-product-less-than-k/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/713.%20Subarray%20Product%20Less%20Than%20K)   |
 | 717 | 1-bit and 2-bit Characters |  Easy  | [Here](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/717.%201-bit%20and%202-bit%20Characters)   |
+| 718 | Maximum Length of Repeated Subarray |  Medium  | [Here](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/718.%20Maximum%20Length%20of%20Repeated%20Subarray)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
