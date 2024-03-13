@@ -185,8 +185,8 @@ Solution to LeetCode Problem
 | 718 | Maximum Length of Repeated Subarray |  Medium  | [Here](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/718.%20Maximum%20Length%20of%20Repeated%20Subarray)   |
 | 720 | Longest Word in Dictionary |  Medium  | [Here](https://leetcode.com/problems/longest-word-in-dictionary/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/720.%20Longest%20Word%20in%20Dictionary)   |
 | 721 | Accounts Merge |  Medium  | [Here](https://leetcode.com/problems/accounts-merge/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/721.%20Accounts%20Merge)   |
+| 725 | Split Linked List in Parts |  Medium  | [Here](https://leetcode.com/problems/split-linked-list-in-parts/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/725.%20Split%20Linked%20List%20in%20Parts)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
