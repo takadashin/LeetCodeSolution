@@ -195,8 +195,8 @@ Solution to LeetCode Problem
 | 744 | Find Smallest Letter Greater Than Target |  Easy  | [Here](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target)   |
 | 747 | Largest Number At Least Twice of Others |  Easy  | [Here](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others)   |
 | 748 | Shortest Completing Word |  Easy  | [Here](https://leetcode.com/problems/shortest-completing-word/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/748.%20Shortest%20Completing%20Word)   |
+| 752 | Open the Lock |  Medium  | [Here](https://leetcode.com/problems/open-the-lock/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/752.%20Open%20the%20Lock)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
