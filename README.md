@@ -196,6 +196,7 @@ Solution to LeetCode Problem
 | 747 | Largest Number At Least Twice of Others |  Easy  | [Here](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others)   |
 | 748 | Shortest Completing Word |  Easy  | [Here](https://leetcode.com/problems/shortest-completing-word/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/748.%20Shortest%20Completing%20Word)   |
 | 752 | Open the Lock |  Medium  | [Here](https://leetcode.com/problems/open-the-lock/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/752.%20Open%20the%20Lock)   |
+| 754 | Reach a Number |  Medium  | [Here](https://leetcode.com/problems/reach-a-number/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/754.%20Reach%20a%20Number)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
