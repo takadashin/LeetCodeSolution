@@ -202,8 +202,8 @@ Solution to LeetCode Problem
 | 766 | Toeplitz Matrix |  Easy  | [Here](https://leetcode.com/problems/toeplitz-matrix/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/766.%20Toeplitz%20Matrix)   |
 | 767 | Reorganize String |  Medium  | [Here](https://leetcode.com/problems/reorganize-string/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/767.%20Reorganize%20String)   |
 | 769 | Max Chunks To Make Sorted |  Medium  | [Here](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/769.%20Max%20Chunks%20To%20Make%20Sorted)   |
+| 771 | Jewels and Stones |  Easy  | [Here](https://leetcode.com/problems/jewels-and-stones/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/771.%20Jewels%20and%20Stones)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
