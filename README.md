@@ -203,8 +203,8 @@ Solution to LeetCode Problem
 | 767 | Reorganize String |  Medium  | [Here](https://leetcode.com/problems/reorganize-string/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/767.%20Reorganize%20String)   |
 | 769 | Max Chunks To Make Sorted |  Medium  | [Here](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/769.%20Max%20Chunks%20To%20Make%20Sorted)   |
 | 771 | Jewels and Stones |  Easy  | [Here](https://leetcode.com/problems/jewels-and-stones/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/771.%20Jewels%20and%20Stones)   |
+| 775 | Global and Local Inversions |  Medium  | [Here](https://leetcode.com/problems/global-and-local-inversions/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/775.%20Global%20and%20Local%20Inversions)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
