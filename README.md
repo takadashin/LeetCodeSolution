@@ -206,8 +206,8 @@ Solution to LeetCode Problem
 | 775 | Global and Local Inversions |  Medium  | [Here](https://leetcode.com/problems/global-and-local-inversions/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/775.%20Global%20and%20Local%20Inversions)   |
 | 777 | Swap Adjacent in LR String |  Medium  | [Here](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/777.%20Swap%20Adjacent%20in%20LR%20String)   |
 | 779 | K-th Symbol in Grammar |  Medium  | [Here](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/779.%20K-th%20Symbol%20in%20Grammar)   |
+| 781 | Rabbits in Forest |  Medium  | [Here](https://leetcode.com/problems/rabbits-in-forest/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/781.%20Rabbits%20in%20Forest)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
