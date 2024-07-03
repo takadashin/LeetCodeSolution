@@ -207,8 +207,8 @@ Solution to LeetCode Problem
 | 777 | Swap Adjacent in LR String |  Medium  | [Here](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/777.%20Swap%20Adjacent%20in%20LR%20String)   |
 | 779 | K-th Symbol in Grammar |  Medium  | [Here](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/779.%20K-th%20Symbol%20in%20Grammar)   |
 | 781 | Rabbits in Forest |  Medium  | [Here](https://leetcode.com/problems/rabbits-in-forest/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/781.%20Rabbits%20in%20Forest)   |
+| 783 | Minimum Distance Between BST Nodes |  Easy  | [Here](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/783.%20Minimum%20Distance%20Between%20BST%20Nodes)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
