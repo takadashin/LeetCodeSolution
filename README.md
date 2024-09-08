@@ -212,5 +212,42 @@ Solution to LeetCode Problem
 | 785 | Is Graph Bipartite? |  Medium  | [Here](https://leetcode.com/problems/is-graph-bipartite/description/?source=submission-noac)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/785.%20Is%20Graph%20Bipartite%3F)   |
 | 786 | K-th Smallest Prime Fraction |  Medium  | [Here](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/786.%20K-th%20Smallest%20Prime%20Fraction)   |
 | 787 | Cheapest Flights Within K Stops |  Medium  | [Here](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/787.%20Cheapest%20Flights%20Within%20K%20Stops)   |
+| 788 |  Rotated Digits |  Medium  | [Here](https://leetcode.com/problems/rotated-digits/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/788.%20Rotated%20Digits)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
