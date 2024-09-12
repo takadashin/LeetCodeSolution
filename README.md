@@ -213,9 +213,8 @@ Solution to LeetCode Problem
 | 786 | K-th Smallest Prime Fraction |  Medium  | [Here](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/786.%20K-th%20Smallest%20Prime%20Fraction)   |
 | 787 | Cheapest Flights Within K Stops |  Medium  | [Here](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/787.%20Cheapest%20Flights%20Within%20K%20Stops)   |
 | 788 |  Rotated Digits |  Medium  | [Here](https://leetcode.com/problems/rotated-digits/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/788.%20Rotated%20Digits)   |
+| 789 | Escape The Ghosts |  Medium  | [Here](https://leetcode.com/problems/escape-the-ghosts/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/789.%20Escape%20The%20Ghosts)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
-
 
 
 
