@@ -215,8 +215,7 @@ Solution to LeetCode Problem
 | 788 |  Rotated Digits |  Medium  | [Here](https://leetcode.com/problems/rotated-digits/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/788.%20Rotated%20Digits)   |
 | 789 | Escape The Ghosts |  Medium  | [Here](https://leetcode.com/problems/escape-the-ghosts/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/789.%20Escape%20The%20Ghosts)   |
 | 791 | Custom Sort String |  Medium  | [Here](https://leetcode.com/problems/custom-sort-string/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/791.%20Custom%20Sort%20String)   |
-| 792 | Number of Matching Subsequences |  Medium  | [Here](https://leetcode.com/problems/number-of-matching-subsequences/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/792.%20Number%20of%20Matching%20Subsequences
-)   |
+| 792 | Number of Matching Subsequences |  Medium  | [Here](https://leetcode.com/problems/number-of-matching-subsequences/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/792.%20Number%20of%20Matching%20Subsequences)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
