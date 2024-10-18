@@ -216,6 +216,7 @@ Solution to LeetCode Problem
 | 789 | Escape The Ghosts |  Medium  | [Here](https://leetcode.com/problems/escape-the-ghosts/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/789.%20Escape%20The%20Ghosts)   |
 | 791 | Custom Sort String |  Medium  | [Here](https://leetcode.com/problems/custom-sort-string/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/791.%20Custom%20Sort%20String)   |
 | 792 | Number of Matching Subsequences |  Medium  | [Here](https://leetcode.com/problems/number-of-matching-subsequences/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/792.%20Number%20of%20Matching%20Subsequences)   |
+| 794 | Valid Tic-Tac-Toe State |  Medium  | [Here](https://leetcode.com/problems/valid-tic-tac-toe-state/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/794.%20Valid%20Tic-Tac-Toe%20State)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
