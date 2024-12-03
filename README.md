@@ -221,7 +221,8 @@ Solution to LeetCode Problem
 | 797 | All Paths From Source to Target |  Medium  | [Here](https://leetcode.com/problems/all-paths-from-source-to-target/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/797.%20All%20Paths%20From%20Source%20to%20Target)   |
 | 799 | Champagne Tower |  Medium  | [Here](https://leetcode.com/problems/champagne-tower/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/799.%20Champagne%20Tower)   |
 | 802 | Find Eventual Safe States |  Medium  | [Here](https://leetcode.com/problems/find-eventual-safe-states/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/802.%20Find%20Eventual%20Safe%20States)   |
-| 806 | Number of Lines To Write String |  ----  | [Here](https://leetcode.com/problems/number-of-lines-to-write-string/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/806.%20Number%20of%20Lines%20To%20Write%20String)   |
+| 806 | Number of Lines To Write String |  Easy  | [Here](https://leetcode.com/problems/number-of-lines-to-write-string/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/806.%20Number%20of%20Lines%20To%20Write%20String)   |
+| 807 | Max Increase to Keep City Skyline |  Medium  | [Here](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/807.%20Max%20Increase%20to%20Keep%20City%20Skyline)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
