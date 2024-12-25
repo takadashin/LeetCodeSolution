@@ -223,8 +223,8 @@ Solution to LeetCode Problem
 | 802 | Find Eventual Safe States |  Medium  | [Here](https://leetcode.com/problems/find-eventual-safe-states/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/802.%20Find%20Eventual%20Safe%20States)   |
 | 806 | Number of Lines To Write String |  Easy  | [Here](https://leetcode.com/problems/number-of-lines-to-write-string/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/806.%20Number%20of%20Lines%20To%20Write%20String)   |
 | 807 | Max Increase to Keep City Skyline |  Medium  | [Here](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/807.%20Max%20Increase%20to%20Keep%20City%20Skyline)   |
+| 808 | Soup Servings |  Medium  | [Here](https://leetcode.com/problems/soup-servings/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/808.%20Soup%20Servings)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
