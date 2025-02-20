@@ -228,9 +228,8 @@ Solution to LeetCode Problem
 | 811 | Subdomain Visit Count |  Medium  | [Here](https://leetcode.com/problems/subdomain-visit-count/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/Subdomain%20Visit%20Count)   |
 | 812 | Largest Triangle Area |  Easy  | [Here](https://leetcode.com/problems/largest-triangle-area/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/812.%20Largest%20Triangle%20Area)   |
 | 813 | Largest Sum of Averages |  Medium  | [Here](https://leetcode.com/problems/largest-sum-of-averages/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/813.%20Largest%20Sum%20of%20Averages)   |
+| 814 | Binary Tree Pruning |  Medium  | [Here](https://leetcode.com/problems/binary-tree-pruning/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/814.%20Binary%20Tree%20Pruning)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
-
 
 
 
