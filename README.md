@@ -230,8 +230,8 @@ Solution to LeetCode Problem
 | 813 | Largest Sum of Averages |  Medium  | [Here](https://leetcode.com/problems/largest-sum-of-averages/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/813.%20Largest%20Sum%20of%20Averages)   |
 | 814 | Binary Tree Pruning |  Medium  | [Here](https://leetcode.com/problems/binary-tree-pruning/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/814.%20Binary%20Tree%20Pruning)   |
 | 816 | Ambiguous Coordinates |  Medium  | [Here](https://leetcode.com/problems/ambiguous-coordinates/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/816.%20Ambiguous%20Coordinates)   |
+| 817 | Linked List Components |  Medium  | [Here](https://leetcode.com/problems/linked-list-components/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/817.%20Linked%20List%20Components)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
