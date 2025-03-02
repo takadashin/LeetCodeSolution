@@ -229,6 +229,7 @@ Solution to LeetCode Problem
 | 812 | Largest Triangle Area |  Easy  | [Here](https://leetcode.com/problems/largest-triangle-area/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/812.%20Largest%20Triangle%20Area)   |
 | 813 | Largest Sum of Averages |  Medium  | [Here](https://leetcode.com/problems/largest-sum-of-averages/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/813.%20Largest%20Sum%20of%20Averages)   |
 | 814 | Binary Tree Pruning |  Medium  | [Here](https://leetcode.com/problems/binary-tree-pruning/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/814.%20Binary%20Tree%20Pruning)   |
+| 816 | Ambiguous Coordinates |  Medium  | [Here](https://leetcode.com/problems/ambiguous-coordinates/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/816.%20Ambiguous%20Coordinates)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
 
 
