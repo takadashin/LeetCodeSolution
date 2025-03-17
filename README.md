@@ -233,10 +233,9 @@ Solution to LeetCode Problem
 | 817 | Linked List Components |  Medium  | [Here](https://leetcode.com/problems/linked-list-components/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/817.%20Linked%20List%20Components)   |
 | 819 | Most Common Word |  Easy  | [Here](https://leetcode.com/problems/most-common-word/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/819.%20Most%20Common%20Word)   |
 | 820 | Short Encoding of Words  | [Here](https://leetcode.com/problems/short-encoding-of-words/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/820.%20Short%20Encoding%20of%20Words)   |
-| 821 | Shortest Distance to a Character  | [Here](https://leetcode.com/problems/shortest-distance-to-a-character/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/821.%20Shortest%20Distance%20to%20a%20Character)   |
+| 821 | Shortest Distance to a Character |  Easy  | [Here](https://leetcode.com/problems/shortest-distance-to-a-character/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/821.%20Shortest%20Distance%20to%20a%20Character)   |
+| 822|  Card Flipping Game | Medium  | [Here](https://leetcode.com/problems/card-flipping-game/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/822.%20Card%20Flipping%20Game)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
-
 
 
 
