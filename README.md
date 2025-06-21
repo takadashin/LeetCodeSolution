@@ -236,8 +236,8 @@ Solution to LeetCode Problem
 | 821 | Shortest Distance to a Character |  Easy  | [Here](https://leetcode.com/problems/shortest-distance-to-a-character/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/821.%20Shortest%20Distance%20to%20a%20Character)   |
 | 822 |  Card Flipping Game | Medium  | [Here](https://leetcode.com/problems/card-flipping-game/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/822.%20Card%20Flipping%20Game)   |
 | 823 | Binary Trees With Factors |  Medium  | [Here](https://leetcode.com/problems/binary-trees-with-factors/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/823.%20Binary%20Trees%20With%20Factors)   |
+| 824 | Goat Latin |  Easy  | [Here](https://leetcode.com/problems/goat-latin/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/824.%20Goat%20Latin)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
