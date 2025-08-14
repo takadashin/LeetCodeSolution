@@ -238,8 +238,8 @@ Solution to LeetCode Problem
 | 823 | Binary Trees With Factors |  Medium  | [Here](https://leetcode.com/problems/binary-trees-with-factors/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/823.%20Binary%20Trees%20With%20Factors)   |
 | 824 | Goat Latin |  Easy  | [Here](https://leetcode.com/problems/goat-latin/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/824.%20Goat%20Latin)   |
 | 825 | Friends Of Appropriate Ages |  Medium  | [Here](https://leetcode.com/problems/friends-of-appropriate-ages/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/825.%20Friends%20Of%20Appropriate%20Ages)   |
+| 826 | Most Profit Assigning Work |  Medium  | [Here](https://claude.ai/chat/a9150dfa-fe92-4a79-af22-a5ce8c02c7e6)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/826.%20Most%20Profit%20Assigning%20Work)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
