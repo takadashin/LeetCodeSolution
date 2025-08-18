@@ -240,8 +240,8 @@ Solution to LeetCode Problem
 | 825 | Friends Of Appropriate Ages |  Medium  | [Here](https://leetcode.com/problems/friends-of-appropriate-ages/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/825.%20Friends%20Of%20Appropriate%20Ages)   |
 | 826 | Most Profit Assigning Work |  Medium  | [Here](https://claude.ai/chat/a9150dfa-fe92-4a79-af22-a5ce8c02c7e6)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/826.%20Most%20Profit%20Assigning%20Work)   |
 | 830 | Positions of Large Groups |  Easy  | [Here](https://leetcode.com/problems/positions-of-large-groups/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/830.%20Positions%20of%20Large%20Groups)   |
+| 831 | Masking Personal Information |  Medium  | [Here](https://leetcode.com/problems/masking-personal-information/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/831.%20Masking%20Personal%20Information)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
