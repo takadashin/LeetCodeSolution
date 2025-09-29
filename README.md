@@ -242,8 +242,8 @@ Solution to LeetCode Problem
 | 830 | Positions of Large Groups |  Easy  | [Here](https://leetcode.com/problems/positions-of-large-groups/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/830.%20Positions%20of%20Large%20Groups)   |
 | 831 | Masking Personal Information |  Medium  | [Here](https://leetcode.com/problems/masking-personal-information/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/831.%20Masking%20Personal%20Information)   |
 | 832 | Flipping an Image |  Easy  | [Here](https://leetcode.com/problems/flipping-an-image/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/832.%20Flipping%20an%20Image)   |
+| 833 | Find And Replace in String |  Medium  | [Here](https://leetcode.com/problems/find-and-replace-in-string/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/833.%20Find%20And%20Replace%20in%20String)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
