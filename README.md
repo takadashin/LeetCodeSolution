@@ -245,8 +245,8 @@ Solution to LeetCode Problem
 | 833 | Find And Replace in String |  Medium  | [Here](https://leetcode.com/problems/find-and-replace-in-string/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/833.%20Find%20And%20Replace%20in%20String)   |
 | 835 | Image Overlap |  Medium  | [Here](https://leetcode.com/problems/image-overlap/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/835.%20Image%20Overlap)   |
 | 836 | Rectangle Overlap |  Easy  | [Here](https://leetcode.com/problems/image-overlap/?source=submission-noac)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/836.%20Rectangle%20Overlap)   |
+| 837 | New 21 Game |  Medium  | [Here](https://leetcode.com/problems/new-21-game/description/?source=submission-noac)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/837.%20New%2021%20Game)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
 
 
 
