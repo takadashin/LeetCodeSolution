@@ -247,7 +247,6 @@ Solution to LeetCode Problem
 | 836 | Rectangle Overlap |  Easy  | [Here](https://leetcode.com/problems/image-overlap/?source=submission-noac)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/836.%20Rectangle%20Overlap)   |
 | 837 | New 21 Game |  Medium  | [Here](https://leetcode.com/problems/new-21-game/description/?source=submission-noac)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/837.%20New%2021%20Game)   |
 | 838 | Push Dominoes |  Medium  | [Here](https://leetcode.com/problems/push-dominoes/description/?source=submission-noac)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/838.%20Push%20Dominoes)   |
+| 840 | Magic Squares In Grid |  Medium  | [Here](https://leetcode.com/problems/magic-squares-in-grid/description/?source=submission-noac)   | [Here]((https://github.com/takadashin/LeetCodeSolution/tree/main/840.%20Magic%20Squares%20In%20Grid)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
-
-
 
