@@ -249,4 +249,5 @@ Solution to LeetCode Problem
 | 838 | Push Dominoes |  Medium  | [Here](https://leetcode.com/problems/push-dominoes/description/?source=submission-noac)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/838.%20Push%20Dominoes)   |
 | 840 | Magic Squares In Grid |  Medium  | [Here](https://leetcode.com/problems/magic-squares-in-grid/description/?source=submission-noac)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/840.%20Magic%20Squares%20In%20Grid)   |
 | 842 | Split Array into Fibonacci Sequence |  Medium  | [Here](https://leetcode.com/problems/split-array-into-fibonacci-sequence/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/842.%20Split%20Array%20into%20Fibonacci%20Sequence)   |
+| 844 | Backspace String Compare |  Easy  | [Here](https://leetcode.com/problems/backspace-string-compare/description/)   | [Here](https://github.com/takadashin/LeetCodeSolution/tree/main/844.%20Backspace%20String%20Compare)   |
 | --- | --------- |  ----  | [Here]()   | [Here]()   |
